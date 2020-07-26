@@ -19,9 +19,13 @@
     &_form {
         width: 100%;
         height: 55px;
-        border-radius: 5px;
-        border: none;
         // text
         font-size: 16px;
+    }
+    &_catalog {
+        width: 131px;
+        height: 40px;
+        // text
+        font-size: 14px;
     }
 }
