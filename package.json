@@ -25,6 +25,8 @@
     "not IE_Mob 11",
     "maintained node versions"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "animate.css": "^4.1.0"
+  },
   "description": ""
 }
